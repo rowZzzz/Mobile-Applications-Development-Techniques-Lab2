@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab 2.1</string>
+    <string-array name="mode">
+        <item>Words</item>
+        <item>Symbols</item>
+    </string-array>
+</resources>
